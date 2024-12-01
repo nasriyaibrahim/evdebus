@@ -1,9 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'Application/pages/Authentication/bloc/auth_bloc.dart';
-import 'Application/pages/Authentication/login.dart';
-import 'Application/pages/Authentication/signup.dart';
+import 'Application/pages/Authentication_page/bloc/auth_bloc.dart';
+import 'Application/pages/Authentication_page/login.dart';
+import 'Application/pages/Authentication_page/signup.dart';
 import 'Application/pages/Home_page/tabfunction_bloc/tab_bloc.dart';
 import 'Application/pages/Main_page/bottom.dart';
 import 'Application/widgets/evde bus/evdebuswidgets/Location Bloc/loc_bloc.dart';

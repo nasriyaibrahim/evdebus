@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../../pages/your_route/route.dart';
+import '../../../pages/your_route_page/route.dart';
 import 'Location Bloc/loc_bloc.dart';
 import 'Location Bloc/loc_event.dart';
 import 'Location Bloc/loc_state.dart';

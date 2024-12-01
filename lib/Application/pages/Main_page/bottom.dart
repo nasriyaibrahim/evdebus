@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../Home_page/home.dart';
-import '../help/Help.dart';
-import '../history/History.dart';
-import '../my account/myaccnt.dart';
+import '../help_page/Help.dart';
+import '../history_page/History.dart';
+import '../my_account_page/myaccnt.dart';
 
 class Bottom extends StatefulWidget {
   const Bottom({super.key});

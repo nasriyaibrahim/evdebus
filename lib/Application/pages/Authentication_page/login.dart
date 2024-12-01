@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login/Application/pages/Authentication/signup.dart';
+import 'package:login/Application/pages/Authentication_page/signup.dart';
 
 import '../Main_page/bottom.dart';
 import 'bloc/auth_bloc.dart';
