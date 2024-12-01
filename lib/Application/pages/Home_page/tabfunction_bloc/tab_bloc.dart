@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login/Application/bottomnavigations/home/tabfunction_bloc/tab_event.dart';
-import 'package:login/Application/bottomnavigations/home/tabfunction_bloc/tab_state.dart';
+import 'package:login/Application/pages/Home_page/tabfunction_bloc/tab_event.dart';
+import 'package:login/Application/pages/Home_page/tabfunction_bloc/tab_state.dart';
 class TabBloc extends Bloc<TabEvent, TabState> {
   TabBloc() : super(TabBus()) {
     on<TabTapped>((event, emit) {

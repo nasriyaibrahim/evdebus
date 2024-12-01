@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login/Application/bottomnavigations/home/evde%20bus/evdebuswidgets/searh_bus_widget_section/your_route/search.dart';
+import 'package:login/Application/widgets/evde%20bus/evdebuswidgets/searh_bus_widget_section/your_route/search.dart';
 
-import 'Location Bloc/loc_bloc.dart';
-import 'Location Bloc/loc_event.dart';
-import 'Location Bloc/loc_state.dart';
+import 'searh_bus_widget_section/Location Bloc/loc_bloc.dart';
+import 'searh_bus_widget_section/Location Bloc/loc_event.dart';
+import 'searh_bus_widget_section/Location Bloc/loc_state.dart';
 
 
 class SearchSection extends StatefulWidget {

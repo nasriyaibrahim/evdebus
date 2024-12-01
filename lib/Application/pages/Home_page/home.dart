@@ -1,11 +1,11 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login/Application/bottomnavigations/home/evde%20train/trainscreen.dart';
-import 'package:login/Application/bottomnavigations/home/tabfunction_bloc/tab_bloc.dart';
-import 'package:login/Application/bottomnavigations/home/tabfunction_bloc/tab_event.dart';
-import 'package:login/Application/bottomnavigations/home/tabfunction_bloc/tab_state.dart';
-import 'evde bus/busscreen.dart';
+import 'package:login/Application/pages/Home_page/tabfunction_bloc/tab_bloc.dart';
+import 'package:login/Application/pages/Home_page/tabfunction_bloc/tab_event.dart';
+import 'package:login/Application/pages/Home_page/tabfunction_bloc/tab_state.dart';
+
+import '../../widgets/evde bus/busscreen.dart';
+import '../../widgets/evde train/trainscreen.dart';
 
 class Home extends StatelessWidget {
   final List<Widget> _screens = [BusScreen(), TrainScreen()];
