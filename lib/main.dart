@@ -6,7 +6,7 @@ import 'Application/pages/Authentication/login.dart';
 import 'Application/pages/Authentication/signup.dart';
 import 'Application/pages/Home_page/tabfunction_bloc/tab_bloc.dart';
 import 'Application/pages/Main_page/bottom.dart';
-import 'Application/widgets/evde bus/evdebuswidgets/searh_bus_widget_section/Location Bloc/loc_bloc.dart';
+import 'Application/widgets/evde bus/evdebuswidgets/Location Bloc/loc_bloc.dart';
 import 'firebase_options.dart';
 var h;
 var w;
