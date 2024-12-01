@@ -3,7 +3,8 @@ import 'package:bloc/bloc.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:equatable/equatable.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import '../models/user_model.dart';
+
+import '../../../Infrastructure/models/user_model.dart';
 
 part 'auth_state.dart';
 part 'auth_event.dart';

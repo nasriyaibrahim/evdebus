@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:login/Application/bottomnavigations/home/evde%20bus/evdebuswidgets/searh_bus_widget_section/search_bus_section.dart';
+import 'package:login/Application/bottomnavigations/home/evde%20bus/evdebuswidgets/service_section.dart';
 
 import 'evdebuswidgets/journey_prompt_section.dart';
 import 'evdebuswidgets/news_updates_section.dart';
-import 'evdebuswidgets/search_bus_section.dart';
-import 'evdebuswidgets/service_section.dart';
 
 class BusScreen extends StatefulWidget {
   const BusScreen({super.key});
