@@ -7,6 +7,7 @@ import 'Application/pages/Authentication_page/signup.dart';
 import 'Application/pages/Home_page/tabfunction_bloc/tab_bloc.dart';
 import 'Application/pages/Main_page/bottom.dart';
 import 'Application/widgets/evde bus/evdebuswidgets/Location Bloc/loc_bloc.dart';
+import 'Application/widgets/evde bus/evdebuswidgets/seach_bloc/search_box_bloc.dart';
 import 'firebase_options.dart';
 var h;
 var w;
@@ -27,6 +28,9 @@ Future<void> main() async {
         BlocProvider<TabBloc>(
           create: (context) => TabBloc(),
         ),
+          BlocProvider<SearchBoxBloc>(
+            create: (context) => SearchBoxBloc(),
+          )
       ],
       child: const MyApp(),
     ),

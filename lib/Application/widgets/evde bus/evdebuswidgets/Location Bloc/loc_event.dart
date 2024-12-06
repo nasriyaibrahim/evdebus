@@ -1,3 +1,4 @@
+
 abstract class LocationEvent {}
 
 class UpdateLocations extends LocationEvent {

@@ -1,13 +1,51 @@
 {
   "project_info": {
-    "project_number": "29552161066",
-    "project_id": "login-a7310",
-    "storage_bucket": "login-a7310.firebasestorage.app"
+    "project_number": "478869573918",
+    "project_id": "evde-ai",
+    "storage_bucket": "evde-ai.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:29552161066:android:8e814d8297f3cdb4d8ee53",
+        "mobilesdk_app_id": "1:478869573918:android:ecfe75b1a9c9557d4ef90f",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFKxSVM6Rb6Di_PD6cApj37a1b_Sa0CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478869573918:android:0a50eb61bdb0ce5b4ef90f",
+        "android_client_info": {
+          "package_name": "com.example.evde_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFKxSVM6Rb6Di_PD6cApj37a1b_Sa0CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478869573918:android:752c6e2fea7d16894ef90f",
         "android_client_info": {
           "package_name": "com.example.login"
         }
@@ -15,7 +53,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCRhJeYawDv50XS4qDmTl1bh4Z3xMciw5w"
+          "current_key": "AIzaSyBgFKxSVM6Rb6Di_PD6cApj37a1b_Sa0CE"
         }
       ],
       "services": {

@@ -41,6 +41,9 @@ dependencies:
   firebase_storage:
   flutter_bloc:
   equatable:
+  cloud_functions:
+  flutter_typeahead: ^4.0.0
+  location:
 
 dev_dependencies:
   flutter_test:
